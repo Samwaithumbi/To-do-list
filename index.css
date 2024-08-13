@@ -98,3 +98,9 @@ ul li span{
    color: #555;
    border-radius: 20%;
 }
+@media only screen and (max-width:412px){
+    .row{
+        display: block;
+    }
+   
+}
